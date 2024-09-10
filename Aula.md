@@ -24,13 +24,30 @@ Apresentar os dados
 
 strings (textos): " " '' ``
 Number (números)
-Functions
+Booleans (false/true)
 
 **Operadores**
 
-Operadores de atribuição de valor
+Operadores de atribuição de valor = (Definir valor)
+Operador de contatenação + (Junção de duas ou mais strings) 
+
+**Arrays**
+
+Uma lista que contém qualquer tipo de dados
+
+**Objeto:**
+
+Atributos de metódos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
 
 **Escopo e variavéis**
 
 Variavéis globais e locais (Global, tudo aquilo que não se usa em {})
 Constantes
+
+**Functions**
+
+Criar 
+Executar
+arrow functions / named function
