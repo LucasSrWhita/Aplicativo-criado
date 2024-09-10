@@ -7,7 +7,7 @@ Como um lego, irei utilizar das peças para criar algoritmos, ou seja resolver p
 
 # Peças de uma linguaguem
 
-- Comentários
+**(X)** Comentários [//]
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -19,3 +19,18 @@ Como um lego, irei utilizar das peças para criar algoritmos, ou seja resolver p
 Coletar dados
 Processar os dados (manipular, alterar, gerenciar, etc)
 Apresentar os dados 
+
+**Tipo de dado**
+
+strings (textos): " " '' ``
+Number (números)
+Functions
+
+**Operadores**
+
+Operadores de atribuição de valor
+
+**Escopo e variavéis**
+
+Variavéis globais e locais (Global, tudo aquilo que não se usa em {})
+Constantes
